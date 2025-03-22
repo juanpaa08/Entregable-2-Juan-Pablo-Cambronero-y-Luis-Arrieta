@@ -2,7 +2,7 @@
 
 Entregable #2 Bases de Datos I 
 
-Integrantes: Juan Pablo Cambronero y Luis Andrés Arrieta
+Integrantes: Juan Pablo Cambronero y Luis Andrés Arrieta Víquez 
 
 Link al script de creación de la base de datos:
 
