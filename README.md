@@ -4,7 +4,7 @@ Entregable #2 Bases de Datos I
 
 Integrantes: Juan Pablo Cambronero y Luis Andrés Arrieta
 
-Link al script de creación de la base de datos:
+Link al script de creación de la base de datos: https://gist.github.com/LuisArrietaV/69c54c7575ac8eb30630b5685dc0466e
 
 Link al script de llenado de datos:
 
