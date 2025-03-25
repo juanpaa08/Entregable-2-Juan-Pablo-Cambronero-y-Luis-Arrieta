@@ -122,3 +122,79 @@ Data table de consulta 4.2 para mostrar los resultados de los datos obtenidos:
 |FirstName8 LastName8   | user8@example.com   |	14                |
 
 |FirstName67 LastName67 | user67@example.com  |	14                |
+
+
+Data table de consulta 4.3 para mostrar los resultados de los datos obtenidos.
+
+Ranking del top 15 de usuarios que más uso le dan a la aplicación:
+
+|userid   |  NombreCompleto         |  TotalIniciosSesion   |  PrimerLogin	|  UltimoLogin	    |  DíasActivo  |
+
+\|---------|-------------------------|-----------------------|-------------------|-------------------|--------------|
+
+|9        | FirstName9 LastName9    |	30	            | 28/01/2025 17:33	| 23/03/2025 9:11   | 54           |
+
+|8        | FirstName8 LastName8    |	29	            | 27/01/2025 0:54	| 23/03/2025 21:24  | 55           |
+
+|4        | FirstName4 LastName4    |	28	            | 24/01/2025 17:33	| 24/03/2025 18:50  | 59           |
+
+|3        | FirstName3 LastName3    |	27	            | 26/01/2025 22:40	| 24/03/2025 23:40  | 57           |
+
+|2        | FirstName2 LastName2    |	26	            | 25/01/2025 11:13	| 21/03/2025 13:37  | 55           |
+
+|5        | FirstName5 LastName5    |	24	            | 26/01/2025 15:22	| 22/03/2025 22:25  | 55           |
+
+|7        | FirstName7 LastName7    |	21	            | 27/01/2025 16:07	| 23/03/2025 15:14  | 55           |
+
+|1        | FirstName1 LastName1    |	20	            | 25/01/2025 0:52	| 24/03/2025 15:03  | 58           |
+
+|10       | FirstName10 LastName10  |	17	            | 25/01/2025 11:53	| 25/03/2025 11:52  | 59           |
+
+|6        | FirstName6 LastName6    |	15	            | 27/01/2025 18:37	| 18/03/2025 13:45  | 50           |
+
+|17       | FirstName17 LastName17  |	14	            | 31/01/2025 18:23	| 21/03/2025 22:07  | 49           |
+
+|13       | FirstName13 LastName13  |	13	            | 26/01/2025 12:42	| 21/03/2025 13:24  | 54           |
+
+|15       | FirstName15 LastName15  |	13	            | 27/01/2025 12:04	| 07/03/2025 15:20  | 39           |
+
+|19       | FirstName19 LastName19  |	11	            | 06/02/2025 21:10	| 24/03/2025 19:55  | 46           |
+
+|11       | FirstName11 LastName11  |	11	            | 06/02/2025 1:49	| 24/03/2025 0:14   | 46           |
+
+Ranking del top 15 de usuarios que menos uso le dan a la aplicación:
+
+|userid   |  NombreCompleto	    |  TotalIniciosSesion  |  UltimoLogin  |
+
+\|---------|-------------------------|----------------------|---------------|
+
+|58       | FirstName58 LastName58  | 0	                   | Nunca         |
+
+|57       | FirstName57 LastName57  | 0	                   | Nunca         |
+
+|52       | FirstName52 LastName52  | 0	                   | Nunca         |
+
+|51       | FirstName51 LastName51  | 0	                   | Nunca         |
+
+|36       | FirstName36 LastName36  | 0	                   | Nunca         |
+
+|60       | FirstName60 LastName60  | 0	                   | Nunca         |
+
+|55       | FirstName55 LastName55  | 0	                   | Nunca         |
+
+|61       | FirstName61 LastName61  | 0	                   | Nunca         |
+
+|27       | FirstName27 LastName27  | 0	                   | Nunca         |
+
+|95       | Usuario25 Apellido25    | 0	                   | Nunca         |
+
+|53       | FirstName53 LastName53  | 0	                   | Nunca         |
+
+|49       | FirstName49 LastName49  | 0	                   | Nunca         |
+
+|59       | FirstName59 LastName59  | 0	                   | Nunca         |
+
+|56       | FirstName56 LastName56  | 0	                   | Nunca         |
+
+|45       | FirstName45 LastName45  | 0	                   | Nunca         |
+
