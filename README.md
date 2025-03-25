@@ -8,7 +8,7 @@ Link al script de creación de la base de datos: https://gist.github.com/LuisArr
 
 Link al script de llenado de datos: https://gist.github.com/juanpaa08/0ac60dd149b1a723624696c8dca44815
 
-Link al script con las consultas: 
+Link al script con las consultas: https://gist.github.com/LuisArrietaV/4c1f99733c22e23f24338f8ee2dbe876
 
 Para cada script de consulta, un data table que muestre los resultados de los datos obtenidos de la consulta.
 Data Tables:
