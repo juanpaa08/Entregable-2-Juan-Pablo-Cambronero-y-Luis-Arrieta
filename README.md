@@ -76,4 +76,49 @@ Data table de consulta 4.1 para mostrar los resultados de los datos obtenidos:
 |Usuario24 Apellido24   | usuario24@example.com | Países Bajos	 | 10000               |
 
 
-Debe ser notorio en los commits los aportes de cada integrante, caso contrario se rebajaran puntos a discresión
+
+Data table de consulta 4.2 para mostrar los resultados de los datos obtenidos:
+
+|nombre\_completo        |   email             | dias\_para\_renovar |
+
+\|-----------------------| --------------------|-------------------|
+
+|FirstName24 LastName24 | user24@example.com  |  1                |
+
+|FirstName44 LastName44 | user44@example.com  |	2                 |
+
+|FirstName63 LastName63 | user63@example.com  |	2                 |
+
+|FirstName43 LastName43 | user43@example.com  |	3                 |
+
+|FirstName32 LastName32 | user32@example.com  |	3                 |
+
+|FirstName14 LastName14 | user14@example.com  |	4                 |
+
+|FirstName10 LastName10 | user10@example.com  |	4                 |
+
+|FirstName39 LastName39 | user39@example.com  |	5                 |
+
+|FirstName37 LastName37 | user37@example.com  |	6                 |
+
+|FirstName32 LastName32 | user32@example.com  |	7                 |
+
+|FirstName17 LastName17 | user17@example.com  |	7                 |
+
+|FirstName42 LastName42 | user42@example.com  |	8                 |
+
+|FirstName15 LastName15 | user15@example.com  |	9                 |
+
+|FirstName52 LastName52 | user52@example.com  |	10                |
+
+|FirstName59 LastName59 | user59@example.com  |	13                |
+
+|FirstName53 LastName53 | user53@example.com  |	13                |
+
+|FirstName22 LastName22 | user22@example.com  |	13                |
+
+|FirstName17 LastName17 | user17@example.com  |	13                |
+
+|FirstName8 LastName8   | user8@example.com   |	14                |
+
+|FirstName67 LastName67 | user67@example.com  |	14                |
